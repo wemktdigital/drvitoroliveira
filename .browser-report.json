@@ -1,0 +1,472 @@
+{
+  "failures": [
+    {
+      "page": "/404.html",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/5-criterios-para-identificar-o-melhor-medico-de-trauma-do-esporte-na-regiao-do-mato-grosso-do-sul/",
+      "bad": [
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/acido-hialuronico-artrose-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/afinal-a-corrida-prejudica-mesmo-o-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/category/blog/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/blog/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/acido-hialuronico-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/category/uncategorized/page/3/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/category/cirugia-do-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/category/uncategorized/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/category/uncategorized/page/2/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/category/uncategorized/page/4/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/category/videoartroscopia/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/category/viscossuplementacao/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/cirurgia-joelho-mato-grosso/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/cirurgiao-artroplastia-joelho/",
+      "bad": [
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/cirurgia-reconstrucao-ligamentar-joelho/",
+      "bad": [
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/cirurgiao-joelho-mato-grosso/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/cirurgiao-joelho-video/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/como-escolher-o-melhor-especialista-em-joelho-em-campo-grande-2/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/cirurgiao-reparo-menisco-ms/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/como-escolher-o-melhor-especialista-em-joelho-em-campo-grande-4/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/como-escolher-o-melhor-especialista-em-joelho-em-campo-grande-3/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialidades/cirurgia-de-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialidades/artroplastias-de-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/como-escolher-o-melhor-especialista-em-joelho-em-campo-grande/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/escolher-especialista-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialidades/sutura-ou-reparo-meniscal/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialidades/meniscectomia/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialidades/dor-no-joelho/",
+      "bad": [
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/especialidades/reconstrucao-ligamentar/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialidades/videoartroscopia-do-joelho/",
+      "bad": [
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid"
+      ]
+    },
+    {
+      "page": "/especialidades/viscossuplementacao/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialista-joelho-campo-grande-2/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialista-cirurgia-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialista-joelho-campo-grande/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/especialista-reconstrucao-lca/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/infiltracao-joelho-tratamento/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/medico-joelho-campo-grande/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/melhor-cirurgia-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/melhor-ortopedista-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/melhor-cirurgiao-lesoes-menisco/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/obrigado-videoartroscopia/",
+      "bad": [
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/obrigado-cirurgia-do-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/obrigado/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/obrigado-viscossuplementacao/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/por-que-as-mulheres-lesionam-mais-os-joelhos-do-que-os-homens/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/politica-de-privacidade/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/passo-a-passo-para-encontrar-o-melhor-medico-especialista-em-joelho-de-confianca-dicas-para-escolher-o-profissional-ideal-para-seu-tratamento/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/recuperacao-ligamento-cruzado-anterior/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/sabia-que-o-crossfit-pode-ser-uma-otima-opcao-para-voce-fortalecer-seu-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/sintomas-menisco-cirurgia/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-content/uploads/2025/09/icone-whatsapp.png",
+        "404 http://127.0.0.1:50629/wp-content/uploads/2025/09/icone-whatsapp.png",
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/sobre/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/seguranca-cirurgia-protese-joelho/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/termos-de-uso/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/tratamento-artrose-joelho-2/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/tratamento-desgaste-articular/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/tratamento-artrose-joelho/",
+      "bad": [
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php",
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "404 http://127.0.0.1:50629/wp-content/uploads/2026/05/como-escolher-o-tratamento-para-artrose-no-joelho-audio.mp3"
+      ]
+    },
+    {
+      "page": "/tratamentos/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/tratamento-lesao-cartilagem/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/tratamento-lesao-menisco-campo/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/videoartroscopia-joelho-campo-grande/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    },
+    {
+      "page": "/viscossuplementacao-joelho-campo-grande/",
+      "bad": [
+        "404 http://127.0.0.1:50629/wp-admin/admin-ajax.php?action=pys_get_pbid",
+        "501 http://127.0.0.1:50629/wp-admin/admin-ajax.php"
+      ]
+    }
+  ],
+  "liveHits": [],
+  "brokenImages": [
+    {
+      "page": "/sintomas-menisco-cirurgia/",
+      "images": [
+        "http://127.0.0.1:50629/wp-content/uploads/2025/09/icone-whatsapp.png",
+        "http://127.0.0.1:50629/wp-content/uploads/2025/09/icone-whatsapp.png"
+      ]
+    }
+  ]
+}
